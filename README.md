@@ -39,7 +39,7 @@ A Machine Learning based web application that predicts the risk of thyroid disea
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/thyroid-disease-prediction.git
+git clone https://github.com/kaveesh-kadirvel/thyroid-disease-prediction.git
 cd thyroid-disease-prediction
 ```
 
